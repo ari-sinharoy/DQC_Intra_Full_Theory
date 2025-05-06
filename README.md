@@ -1,4 +1,4 @@
-# The complete theoretical expression of the 6-pulse DQC intramolecular signal
+# Complete theoretical expression of the 6-pulse DQC intramolecular signal
 #### (The expression includes pseudosecular dipolar coupling interactions and finite pulse effects)
 
 ### File description:
